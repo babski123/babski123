@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babski123
-- 👀 I’m interested in programming
+- 👀 I love programming
 - 🌱 I’m currently learning solidity
 
 <!---
