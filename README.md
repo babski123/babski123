@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babski123
 - 👀 I love programming
-- 🌱 I’m currently learning ReactJS
+- ReactJS, NestJS, SQL
 
 <!---
 babski123/babski123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
